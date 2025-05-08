@@ -6,4 +6,4 @@
 - dataannotation.tech
 - turing.ai
 
-"The Russians. It's the Russians, people!" 
+"The Russians. It's the Russians, people!"...OK. 
